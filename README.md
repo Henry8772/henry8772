@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Zhonghe (Henry) Zhang
+### Hi there 👋, I'm Henry Zhang
 
 📚 AI & Computer Science Enthusiast | 💻 NLP Specialist | 🌐 Web Developer | 🌟 Top 10 MIT Battlecode | 🏆 Google Code-in Finalist
 

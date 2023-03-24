@@ -8,7 +8,7 @@
 print("Hello, World! My name is Zhonghe (Henry) Zhang, and I'm passionate about NLP, AI, and technology!")
 ```
 
-🔥 About Me
+### 🔥 About Me
 🎓 BSC in Artificial Intelligence and Computer Science at the University of Edinburgh (2020 - Ongoing)
 🤖 Deeply passionate about Natural Language Processing, Machine Learning, and AI
 💼 Internship experiences in NLP, software engineering, and front-end development

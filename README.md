@@ -7,11 +7,11 @@ print("Hello, World! My name is Zhonghe (Henry) Zhang, and I'm passionate about 
 ```
 
 ### 🔥 About Me
-🎓 BSC in Artificial Intelligence and Computer Science at the University of Edinburgh (2020 - Ongoing)
-🤖 Deeply passionate about Natural Language Processing, Machine Learning, and AI
-💼 Internship experiences in NLP, software engineering, and front-end development
-🏆 Top 10 in International round at MIT Battlecode 2022 Tournament
-🌟 Global Google Code-in Finalist
+ - 🎓 BSC in Artificial Intelligence and Computer Science at the University of Edinburgh (2020 - Ongoing)
+ - 🤖 Deeply passionate about Natural Language Processing, Machine Learning, and AI
+ - 💼 Internship experiences in NLP, software engineering, and front-end development
+ - 🏆 Top 10 in International round at MIT Battlecode 2022 Tournament
+ - 🌟 Global Google Code-in Finalist
 
 ### 🌐 Projects & Experience
  - Menu Translation App: Translating foreign language menus using OCR, NLP, and machine translation techniques.

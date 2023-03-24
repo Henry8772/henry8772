@@ -4,7 +4,9 @@
 
 📚 AI & Computer Science Enthusiast | 💻 NLP Specialist | 🌐 Web Developer | 🌟 Top 10 MIT Battlecode | 🏆 Google Code-in Finalist
 
+```
 print("Hello, World! My name is Zhonghe (Henry) Zhang, and I'm passionate about NLP, AI, and technology!")
+```
 
 🔥 About Me
 🎓 BSC in Artificial Intelligence and Computer Science at the University of Edinburgh (2020 - Ongoing)

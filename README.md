@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Zhonghe (Henry) Zhang
+
+AI & Computer Science Enthusiast | NLP Specialist | Web Developer | Top 10 MIT Battlecode | Google Code-in Finalist
+
+Hello, World! My name is Zhonghe (Henry) Zhang, and I'm passionate about NLP, AI, and technology!
+
 <!--
 **Henry8772/henry8772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

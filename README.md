@@ -1,13 +1,5 @@
 ### Hi there 👋, I'm Henry Zhang
 
-📚 **AI & Computer Science Enthusiast** | 💻 **NLP Specialist** | 🌐 **Machine Learning Researcher** | 🏆 **Award-Winning Project Leader**
-
-```
-print("Hello, World! I'm Henry, passionate about NLP, AI, and pushing the boundaries of technology!")
-```
-
----
-
 ### 🔥 About Me
 
 - 🎓 **MSc in Artificial Intelligence and Data Engineering** at **University College London** (2024 - 2025)
@@ -34,15 +26,6 @@ print("Hello, World! I'm Henry, passionate about NLP, AI, and pushing the bounda
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, Docker, CUDA, Google Cloud Platform
 - **Soft Skills**: Leadership, Teamwork, Project Management, Teaching, Communication
-
----
-
-### 🏸 Hobbies & Interests
-
-- ⛳ **Golf**
-- 🏸 **Badminton**
-- 🏎️ **Racing**
-
 
 
 ---
